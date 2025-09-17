@@ -1,0 +1,6 @@
+Line 1: Hellow from OwlTech
+Line 2: Empty line test below
+
+Line 4: Special char !%&$#
+Line 5: A Long line with a lot of text qwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnmqwertyuiopasdfghjklzxcvbnm
+Line 6: Last line without new line
