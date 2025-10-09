@@ -1,0 +1,408 @@
+Initial total balance: 5000.00
+Thread 140183629485760: Attempting safe transfer from 1 to 3, Amount 65.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 3, Amount 47.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 0, Amount 81.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 2, Amount 65.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 4, Amount 15.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 1, Amount 94.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 3, Amount 94.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 2, Amount 55.00
+Thread 140183621093056: Attempting safe transfer from 4 to 0, Amount 27.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 3, Amount 31.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 3, Amount 79.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 1, Amount 22.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 2, Amount 15.00
+Thread 140183612700352: Attempting safe transfer from 1 to 0, Amount 47.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 0 to 1, Amount 79.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 3, Amount 23.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 2, Amount 14.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 0, Amount 21.00
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 4, Amount 52.00
+Thread 140183629485760: Attempting safe transfer from 4 to 1, Amount 70.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 1, Amount 57.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 0, Amount 35.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 4, Amount 10.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 0, Amount 82.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 3, Amount 99.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 49.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 3, Amount 69.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 72.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 2, Amount 21.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 0 to 2, Amount 92.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 2, Amount 8.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 4, Amount 88.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 4, Amount 18.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 4, Amount 87.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 4, Amount 42.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 0, Amount 79.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 3, Amount 38.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 3, Amount 64.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 2, Amount 29.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 3, Amount 88.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 5.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 4, Amount 100.00
+Thread 140183621093056: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 2, Amount 21.00
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 1, Amount 72.00
+Thread 140183629485760: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 81.00
+Thread 140183612700352: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 1, Amount 87.00
+Thread 140183604307648: Attempting safe transfer from 0 to 2, Amount 96.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 2, Amount 23.00
+Thread 140183612700352: Attempting safe transfer from 3 to 2, Amount 78.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 3, Amount 96.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 0 to 1, Amount 41.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 2, Amount 37.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 0, Amount 87.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 4, Amount 14.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 3, Amount 94.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 0, Amount 87.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 90.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 4, Amount 14.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 0, Amount 21.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 1, Amount 96.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 1, Amount 11.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 3, Amount 36.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 0, Amount 9.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 0, Amount 63.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 4, Amount 13.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 3, Amount 68.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 2, Amount 8.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 1, Amount 52.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 3, Amount 91.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 0, Amount 85.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 2, Amount 36.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 1, Amount 14.00
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 2, Amount 45.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 4, Amount 56.00
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 4, Amount 99.00
+Thread 140183629485760: Attempting safe transfer from 0 to 4, Amount 25.00
+Thread 140183612700352: Attempting safe transfer from 0 to 4, Amount 19.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 1, Amount 77.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 4, Amount 74.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 3, Amount 13.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 3, Amount 40.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 3, Amount 0.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 3, Amount 26.00
+Thread 140183621093056: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 77.00
+Thread 140183604307648: Transfer completed
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 0, Amount 24.00
+Thread 140183621093056: Attempting safe transfer from 1 to 0, Amount 57.00
+Thread 140183604307648: Attempting safe transfer from 0 to 2, Amount 66.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 2, Amount 83.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 1, Amount 56.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 0 to 2, Amount 67.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 0, Amount 95.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 4, Amount 82.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 0, Amount 29.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 1, Amount 87.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 0 to 2, Amount 37.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 1, Amount 20.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 3, Amount 23.00
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 0, Amount 23.00
+Thread 140183612700352: Attempting safe transfer from 0 to 2, Amount 8.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 0, Amount 66.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 3, Amount 47.00
+Thread 140183604307648: Transfer completed
+Thread 140183621093056: Transfer completed
+Thread 140183629485760: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 3, Amount 7.00
+Thread 140183621093056: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 3, Amount 90.00
+Thread 140183612700352: Attempting safe transfer from 1 to 0, Amount 3.00
+Thread 140183629485760: Attempting safe transfer from 1 to 4, Amount 87.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 0, Amount 47.00
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 3, Amount 56.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 0, Amount 38.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 1, Amount 21.00
+Thread 140183612700352: Attempting safe transfer from 3 to 1, Amount 62.00
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 4, Amount 49.00
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 2, Amount 84.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 0, Amount 28.00
+Thread 140183629485760: Attempting safe transfer from 2 to 0, Amount 0.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 2, Amount 34.00
+Thread 140183621093056: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 4, Amount 41.00
+Thread 140183621093056: Attempting safe transfer from 3 to 2, Amount 87.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 0 to 1, Amount 53.00
+Thread 140183621093056: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 2, Amount 99.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 3 to 0, Amount 50.00
+Thread 140183629485760: Transfer completed
+Thread 140183621093056: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 3 to 1, Amount 55.00
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 4, Amount 89.00
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 3, Amount 47.00
+Thread 140183621093056: Attempting safe transfer from 3 to 1, Amount 49.00
+Thread 140183604307648: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 2, Amount 42.00
+Thread 140183604307648: Attempting safe transfer from 3 to 4, Amount 60.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 2, Amount 10.00
+Thread 140183612700352: Attempting safe transfer from 2 to 3, Amount 91.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 3, Amount 57.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 2, Amount 34.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 2 to 1, Amount 20.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 2, Amount 88.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 0, Amount 38.00
+Thread 140183604307648: Transfer completed
+Thread 140183629485760: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 0, Amount 44.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 0, Amount 12.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 0 to 4, Amount 85.00
+Thread 140183629485760: Attempting safe transfer from 1 to 3, Amount 95.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 1, Amount 95.00
+Thread 140183604307648: Transfer completed
+Thread 140183621093056: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 3, Amount 37.00
+Thread 140183621093056: Attempting safe transfer from 4 to 2, Amount 87.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 4 to 0, Amount 98.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 1, Amount 94.00
+Thread 140183629485760: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 1, Amount 7.00
+Thread 140183612700352: Attempting safe transfer from 0 to 2, Amount 58.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 0, Amount 4.00
+Thread 140183621093056: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 3, Amount 53.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 4, Amount 85.00
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 3, Amount 86.00
+Thread 140183612700352: Attempting safe transfer from 1 to 2, Amount 81.00
+Thread 140183621093056: Attempting safe transfer from 2 to 4, Amount 59.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 1, Amount 4.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 0 to 3, Amount 1.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 4, Amount 53.00
+Thread 140183621093056: Transfer completed
+Thread 140183621093056: Attempting safe transfer from 1 to 4, Amount 48.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 4, Amount 55.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 64.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 3, Amount 33.00
+Thread 140183629485760: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 4, Amount 5.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 4 to 0, Amount 99.00
+Thread 140183621093056: Transfer completed
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 1 to 4, Amount 37.00
+Thread 140183629485760: Transfer completed
+Thread 140183629485760: Attempting safe transfer from 2 to 1, Amount 90.00
+Thread 140183629485760: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 0 to 4, Amount 97.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 89.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 5.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 1, Amount 60.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 3, Amount 53.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 4, Amount 3.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 2, Amount 95.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 4, Amount 26.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 6.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 3 to 4, Amount 38.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 0, Amount 40.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 4, Amount 50.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 2, Amount 57.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 0 to 2, Amount 66.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 2 to 0, Amount 47.00
+Thread 140183612700352: Transfer completed
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 4, Amount 23.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 3, Amount 52.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 7.00
+Thread 140183604307648: Attempting safe transfer from 0 to 1, Amount 82.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 0, Amount 24.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 4, Amount 90.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 4 to 1, Amount 39.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 2, Amount 3.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 1, Amount 25.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 1, Amount 21.00
+Thread 140183604307648: Transfer completed
+Thread 140183604307648: Attempting safe transfer from 1 to 3, Amount 96.00
+Thread 140183604307648: Transfer completed
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 3, Amount 36.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 1, Amount 88.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 4, Amount 70.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 3, Amount 78.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 1, Amount 69.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 0, Amount 13.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 4, Amount 28.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 4, Amount 12.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 1 to 2, Amount 38.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 4 to 0, Amount 82.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 2 to 0, Amount 64.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 3 to 1, Amount 4.00
+Thread 140183612700352: Transfer completed
+Thread 140183612700352: Attempting safe transfer from 0 to 4, Amount 74.00
+Thread 140183612700352: Transfer completed
+Account 0: Final balance 994.00, Transactions 79
+Account 1: Final balance 616.00, Transactions 81
+Account 2: Final balance 1270.00, Transactions 78
+Account 3: Final balance 1029.00, Transactions 82
+Account 4: Final balance 1091.00, Transactions 80
+Final total balance: 5000.00
+Total transactions: 400
